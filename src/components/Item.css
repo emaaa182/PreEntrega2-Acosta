@@ -1,0 +1,12 @@
+img{
+    width: 220px;
+}
+h3{
+    font-size: 25px;
+    font-style: bold;
+}
+.item-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
